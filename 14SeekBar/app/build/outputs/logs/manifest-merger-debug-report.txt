@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\250c4cad69f40a010c71151b0e8649db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\094dea14a7faf8ec8e6eedc4cb22edcc\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\dfc1fd3b55c7c2f301cb863d62e1ff65\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\9e1f437bfdba034d9d7113d94ea4a882\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\0a6e505ef33c1d42afcbac6b9053d434\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\b0798f81e08d4d41eccbf688818dc68e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\3b33d345b33d69863b4bfe44b9c31287\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\b2b7e595940da613eccc25bc69d02a75\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\180f6a8eefda19ae009afa3b448544e8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\e5c2674871883bb9b9a07a8e7c2d9605\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\f94496acb2a623f1861163e4a44741b5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\e62a768f149039d0e4404e0fd4557a57\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\082d9fbf9364e7736a8a7b6a30501e8b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\e68ebb8e34a25f10bca32e194f5743ed\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\508aad08ca6a781ebbb2a6d92df21a76\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\676efeabfa48716ecadade3f3c10a79a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\e4aa8d9b57b19e1dbe4f0355d15b81a0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\e6b11397fdba566602d7fe7804ee0811\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\c0ab77d134ee54f4e1bac3a6205c3807\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\508dcafeb11f2215fa7a841f5b8b20ee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\a5e0b755a2c69114853a6946affb491a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\e07322f5b5afb4aae24b9a4a5530566c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\c7a9558a40913123ef47b3adffaa03f1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\6e9e86044772acae6ef2b3ff5e3a9092\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\cb6d6e53ee8e5e51a8661cd42277673d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\fa51bafea316a9b8370ecfbb7e13d7b1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\6e375006549bf494d124733f8a8893ea\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\094dea14a7faf8ec8e6eedc4cb22edcc\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\094dea14a7faf8ec8e6eedc4cb22edcc\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\676efeabfa48716ecadade3f3c10a79a\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\676efeabfa48716ecadade3f3c10a79a\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\e4aa8d9b57b19e1dbe4f0355d15b81a0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\e4aa8d9b57b19e1dbe4f0355d15b81a0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\676efeabfa48716ecadade3f3c10a79a\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.rez.seekbar.MainActivity
+ADDED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\250c4cad69f40a010c71151b0e8649db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\250c4cad69f40a010c71151b0e8649db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\094dea14a7faf8ec8e6eedc4cb22edcc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\094dea14a7faf8ec8e6eedc4cb22edcc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\dfc1fd3b55c7c2f301cb863d62e1ff65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\dfc1fd3b55c7c2f301cb863d62e1ff65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\9e1f437bfdba034d9d7113d94ea4a882\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\9e1f437bfdba034d9d7113d94ea4a882\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\0a6e505ef33c1d42afcbac6b9053d434\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\0a6e505ef33c1d42afcbac6b9053d434\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\b0798f81e08d4d41eccbf688818dc68e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\b0798f81e08d4d41eccbf688818dc68e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\3b33d345b33d69863b4bfe44b9c31287\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\3b33d345b33d69863b4bfe44b9c31287\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\b2b7e595940da613eccc25bc69d02a75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\b2b7e595940da613eccc25bc69d02a75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\180f6a8eefda19ae009afa3b448544e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\180f6a8eefda19ae009afa3b448544e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\e5c2674871883bb9b9a07a8e7c2d9605\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\e5c2674871883bb9b9a07a8e7c2d9605\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\f94496acb2a623f1861163e4a44741b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\f94496acb2a623f1861163e4a44741b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\e62a768f149039d0e4404e0fd4557a57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\e62a768f149039d0e4404e0fd4557a57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\082d9fbf9364e7736a8a7b6a30501e8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\082d9fbf9364e7736a8a7b6a30501e8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\e68ebb8e34a25f10bca32e194f5743ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\e68ebb8e34a25f10bca32e194f5743ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\508aad08ca6a781ebbb2a6d92df21a76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\508aad08ca6a781ebbb2a6d92df21a76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\676efeabfa48716ecadade3f3c10a79a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\676efeabfa48716ecadade3f3c10a79a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\e4aa8d9b57b19e1dbe4f0355d15b81a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\e4aa8d9b57b19e1dbe4f0355d15b81a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\e6b11397fdba566602d7fe7804ee0811\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\e6b11397fdba566602d7fe7804ee0811\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\c0ab77d134ee54f4e1bac3a6205c3807\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\c0ab77d134ee54f4e1bac3a6205c3807\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\508dcafeb11f2215fa7a841f5b8b20ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\508dcafeb11f2215fa7a841f5b8b20ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\a5e0b755a2c69114853a6946affb491a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\a5e0b755a2c69114853a6946affb491a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\e07322f5b5afb4aae24b9a4a5530566c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\e07322f5b5afb4aae24b9a4a5530566c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\c7a9558a40913123ef47b3adffaa03f1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\c7a9558a40913123ef47b3adffaa03f1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\6e9e86044772acae6ef2b3ff5e3a9092\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\6e9e86044772acae6ef2b3ff5e3a9092\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\cb6d6e53ee8e5e51a8661cd42277673d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\cb6d6e53ee8e5e51a8661cd42277673d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\fa51bafea316a9b8370ecfbb7e13d7b1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\fa51bafea316a9b8370ecfbb7e13d7b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\6e375006549bf494d124733f8a8893ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Ridita\.gradle\caches\transforms-2\files-2.1\6e375006549bf494d124733f8a8893ea\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ridita\Documents\SoftwareDevelopment-updates\AndroidProjectFiles\14SeekBar\app\src\main\AndroidManifest.xml
